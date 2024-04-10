@@ -33,3 +33,9 @@ footer{
 	width: 142%;
 	height: 130%;
 }
+
+@media screen and (max-width: 1878px){
+	.img{
+		width: 278%
+	}	
+}
